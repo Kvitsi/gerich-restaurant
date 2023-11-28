@@ -1,4 +1,4 @@
-# Imaginary Restaurant Project
+# Gericht Restaurant Project
 
 ![Project Screenshot](src/assets/gerichtscrn.png)
 
