@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a front-end implementation of an imaginary restaurant website. It serves as a showcase of my skills in React, JavaScript, and CSS. The site is hosted on Netlify, and you can access it [here](https://master--chipper-concha-7881a9.netlify.app/).
+This project is a front-end implementation of an imaginary restaurant website. It serves as a showcase of my skills in React, JavaScript, and CSS. The site is hosted on Netlify, and you can access it [here](https://gericht-restaurant-kvitsi.netlify.app/).
 
 ## Features
 
@@ -22,8 +22,8 @@ This project is a front-end implementation of an imaginary restaurant website. I
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/imaginary-restaurant.git`
-2. Navigate to the project directory: `cd imaginary-restaurant`
+1. Clone the repository: `git clone https://github.com/kvitsi/gerich-restaurant.git`
+2. Navigate to the project directory: `cd gerich-restaurant`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the project locally.
